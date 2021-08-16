@@ -1,2 +1,2 @@
-# JWT Authorization
-Trying out the JSONWebToken Autherization and Stateless Login(No Sessions)
+# JWT Authorization - Server
+Trying out the JSONWebToken Authorization and Stateless Login with React and Express
