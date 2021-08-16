@@ -1,2 +1,2 @@
-# jwtexpt-server
+# JWT Authorization
 Trying out the JSONWebToken Autherization and Stateless Login(No Sessions)
